@@ -1,16 +1,18 @@
-### Hi there 👋
+# Bienvenido/a a mi rincón en GitHub 🌟
 
-<!--
-**RaynierPM/RaynierPM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy **Raynier Pérez Minyety**, un desarrollador junior con un ardiente interés por la programación, las matemáticas y la resolución de problemas. Actualmente, estoy enfocado en alcanzar el nivel de desarrollo full stack mientras continúo mis estudios en desarrollo de software en el **Instituto Tecnológico de Las Américas (ITLA)**.
 
-Here are some ideas to get you started:
+## Acerca de mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Desarrollador junior en busca del dominio full stack.
+- 📘 Estudiante apasionado de desarrollo de software en el ITLA.
+
+## Mis Objetivos
+
+Mi trayectoria va más allá de simplemente escribir código. Mi enfoque es comprender a fondo los problemas y aplicar soluciones creativas.
+
+## Conéctate conmigo
+
+¡Estoy emocionado/a por lo que depara el futuro y por las oportunidades de colaboración! Si compartes intereses similares o simplemente quieres charlar sobre código, **no dudes en [contactarme](www.linkedin.com/in/raynier-minyety-0928a7270)**!
+
+🚀 ¡Acompáñame en este emocionante viaje! 🚀
