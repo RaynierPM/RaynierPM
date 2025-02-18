@@ -1,6 +1,6 @@
 # Bienvenido/a a mi rincón en GitHub 🌟
 
-¡Hola! Soy **Raynier Pérez Minyety**, un desarrollador junior con un ardiente interés por la programación, las matemáticas y la resolución de problemas. Actualmente, estoy enfocado en alcanzar el nivel de desarrollo full stack mientras continúo mis estudios en desarrollo de software en el **Instituto Tecnológico de Las Américas (ITLA)**.
+¡Hola! Soy **Raynier Pérez Minyety**, un desarrollador junior con un ardiente interés por la programación, las matemáticas y la resolución de problemas. Actualmente, estoy enfocado en alcanzar el nivel de desarrollo full stack adquiriendo habilidades en diversos ámbitos.
 
 ## Acerca de mí
 
