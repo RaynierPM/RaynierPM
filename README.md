@@ -5,7 +5,6 @@
 ## Acerca de mí
 
 - 💻 Desarrollador junior en busca del dominio full stack.
-- 📘 Estudiante apasionado de desarrollo de software en el ITLA.
 
 ## Mis Objetivos
 
