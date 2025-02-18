@@ -8,7 +8,7 @@
 
 ## Mis Objetivos
 
-Mi trayectoria va más allá de simplemente escribir código. Mi enfoque es comprender a fondo los problemas y aplicar soluciones creativas.
+Mi motivación va más allá de simplemente aprender a escribir código. Mi enfoque es comprender a fondo los problemas y aplicar soluciones creativas, comprendiendo las mejores prácticas del sector.
 
 ## Conéctate conmigo
 
