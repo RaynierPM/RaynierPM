@@ -15,3 +15,13 @@ Mi motivación va más allá de simplemente aprender a escribir código. Mi enfo
 ¡Estoy emocionado/a por lo que depara el futuro y por las oportunidades de colaboración! Si compartes intereses similares o simplemente quieres charlar sobre código, **no dudes en [contactarme](www.linkedin.com/in/raynier-minyety-0928a7270)**!
 
 🚀 ¡Acompáñame en este emocionante viaje! 🚀
+
+## Algunos proyectos
+
+- [**Nidea colors**](https://nidea-colors.netlify.app) - Un generador de colores aleatorios o bajo ciertos criterios.
+- > [*Codigo fuente*](https://github.com/RaynierPM/nidea-colors)
+
+- [**Nidea iviewer**](https://nidea-image-previewer.netlify.app) - Un previsualizador de imagenes en la web, cortar y mantiene el *aspect-ratio* de las imagenes sea necesario. (Responsive and mobile compatibility)
+- > [*Codigo fuente*](https://github.com/RaynierPM/image-previewer)
+  > [*Wrapper para ReactJS*](https://github.com/RaynierPM/react-image-previewer)
+  > **Paquetes para NPM**: [Core](https://npmjs.com/packages/nidea-iviewer) - [React-wrapper](https://www.npmjs.com/package/nidea-react-iviewer)
