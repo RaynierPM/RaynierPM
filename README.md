@@ -16,7 +16,7 @@ Mi motivación va más allá de simplemente aprender a escribir código. Mi enfo
 
 🚀 ¡Acompáñame en este emocionante viaje! 🚀
 
-## Algunos proyectos
+## Algunos proyectos proprios
 
 - [**Nidea colors**](https://nidea-colors.netlify.app) - Un generador de colores aleatorios o bajo ciertos criterios.
 - > [*Codigo fuente*](https://github.com/RaynierPM/nidea-colors)
