@@ -21,7 +21,7 @@ Mi motivación va más allá de simplemente aprender a escribir código. Mi enfo
 - [**Nidea colors**](https://nidea-colors.netlify.app) - Un generador de colores aleatorios o bajo ciertos criterios.
 - > [*Codigo fuente*](https://github.com/RaynierPM/nidea-colors)
 
-- [**Nidea iviewer**](https://nidea-image-previewer.netlify.app) - Un previsualizador de imagenes en la web, cortar y mantiene el *aspect-ratio* de las imagenes sea necesario. (Responsive and mobile compatibility)
+- [**Nidea iviewer**](https://nidea-image-previewer.netlify.app) - Un previsualizador de imagenes en la web. Corta y mantiene el *aspect-ratio* de las imagenes cuando sea necesario. (Responsive and mobile compatibility)
 - > [*Codigo fuente*](https://github.com/RaynierPM/image-previewer)
 - > [*Wrapper para ReactJS*](https://github.com/RaynierPM/react-image-previewer)
 - > **Paquetes para NPM**: [Core](https://npmjs.com/package/nidea-iviewer) Y [React-wrapper](https://www.npmjs.com/package/nidea-react-iviewer)
